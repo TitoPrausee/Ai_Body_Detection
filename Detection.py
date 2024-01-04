@@ -52,7 +52,7 @@ class PoseDetectionApp:
 
             self.root.update()
 
-            self.root.after(10, self.update)  # Wiederhole die Aktualisierung
+            self.root.after(10, self.update)  
 
 def main():
     cap = cv2.VideoCapture(0)
