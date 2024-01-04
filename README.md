@@ -20,20 +20,14 @@ Real-time pose detection using OpenCV & Mediapipe. This project captures video f
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/pose-detection.git
-    cd pose-detection
+    [git clone https://github.com/your-username/pose-detection.git](https://github.com/TitoPrausee/Ai_Body_Detection.git)
+   
     ```
 
-2. **Install dependencies:**
+2. **Run the application:**
 
     ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the application:**
-
-    ```bash
-    python pose_detection_app.py
+    python Detection.py
     ```
 
 4. Click "Start Detection" to begin pose detection. Click "Stop Detection" to stop.
